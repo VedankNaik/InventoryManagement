@@ -1,4 +1,5 @@
-# app
+#  InventoryManagement
+Inventory management application developed using Vue.js
 
 ## Project setup
 ```
